@@ -1,0 +1,2 @@
+# -Analyzing-Digital-Advertising-Campaign-Performance-Based-on-Placement-Analysis
+This project analyzes a company's digital advertising campaigns over three months, focusing on key metrics like cost, revenue, profit, and ROI. It identifies trends, highlights areas for optimization, and offers recommendations to improve campaign efficiency, helping allocate spending to maximize ROI and minimize losses.
